@@ -11,7 +11,7 @@ const objects = {
     boolean: boolean,
     body: {
         style: {
-            backgroundColor: 'blue',
+            backgroundColor: 'green',
             color: 'black'
         }
     },
